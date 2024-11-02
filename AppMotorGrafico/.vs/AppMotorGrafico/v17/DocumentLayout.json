@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\animaciones\\itranformaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:animaciones\\itranformaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\animaciones\\escena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:animaciones\\escena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\animaciones\\bicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:animaciones\\bicola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\animaciones\\accion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:animaciones\\accion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\serializacion\\uncserializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:serializacion\\uncserializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\pantalla\\uncescenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:pantalla\\uncescenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\animaciones\\libreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:animaciones\\libreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\pantalla\\planocartesiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9608B4-5367-4C41-8C02-AEA2F29DCB2D}|AppMotorGrafico.csproj|solutionrelative:pantalla\\planocartesiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACIEAAAAAAAAAAAmwDQEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:55:55.332Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAADgv2UAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:45:49.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UncEscenario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Pantalla\\UncEscenario.cs",
+              "RelativeDocumentMoniker": "Pantalla\\UncEscenario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Pantalla\\UncEscenario.cs",
+              "RelativeToolTip": "Pantalla\\UncEscenario.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:18:39.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlanoCartesiano.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Pantalla\\PlanoCartesiano.cs",
+              "RelativeDocumentMoniker": "Pantalla\\PlanoCartesiano.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Pantalla\\PlanoCartesiano.cs",
+              "RelativeToolTip": "Pantalla\\PlanoCartesiano.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:18:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "uncserializacion.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\serializacion\\uncserializacion.cs",
+              "RelativeDocumentMoniker": "serializacion\\uncserializacion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\serializacion\\uncserializacion.cs",
+              "RelativeToolTip": "serializacion\\uncserializacion.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv18AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:17:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libreto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\Libreto.cs",
+              "RelativeDocumentMoniker": "Animaciones\\Libreto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\Libreto.cs",
+              "RelativeToolTip": "Animaciones\\Libreto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:17:19.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Escena.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\Escena.cs",
+              "RelativeDocumentMoniker": "Animaciones\\Escena.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\Escena.cs",
+              "RelativeToolTip": "Animaciones\\Escena.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:05:05.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Itranformaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\Itranformaciones.cs",
+              "RelativeDocumentMoniker": "Animaciones\\Itranformaciones.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\Itranformaciones.cs",
+              "RelativeToolTip": "Animaciones\\Itranformaciones.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAADwv0oBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:13:02.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bicola.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\Bicola.cs",
+              "RelativeDocumentMoniker": "Animaciones\\Bicola.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\Bicola.cs",
+              "RelativeToolTip": "Animaciones\\Bicola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:05:07.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "accion.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\accion.cs",
+              "RelativeDocumentMoniker": "Animaciones\\accion.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Animaciones\\accion.cs",
+              "RelativeToolTip": "Animaciones\\accion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:05:00.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

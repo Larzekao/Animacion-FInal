@@ -1,0 +1,20 @@
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\bin\Debug\net8.0-windows\AppMotorGrafico - Backup.exe
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\bin\Debug\net8.0-windows\AppMotorGrafico - Backup.deps.json
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\bin\Debug\net8.0-windows\AppMotorGrafico - Backup.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\bin\Debug\net8.0-windows\AppMotorGrafico - Backup.dll
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\bin\Debug\net8.0-windows\AppMotorGrafico - Backup.pdb
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico.Form1.resources
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotor.38A8CEA8.Up2Date
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.dll
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\refint\AppMotorGrafico - Backup.dll
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.pdb
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\AppMotorGrafico - Backup.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Universidad\6 Semestre\programacion grafica\practicas\Programacion-grafica-full-main\AppMotorGrafico\obj\Debug\net8.0-windows\ref\AppMotorGrafico - Backup.dll

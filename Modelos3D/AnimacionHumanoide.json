@@ -1,0 +1,590 @@
+{
+  "Escenas": {
+    "Valores": [
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 0
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 0
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 0,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 0.8
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 0.8
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 0.8,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 1.6
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 1.6
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 1.6,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 2.4000000000000004
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 2.4000000000000004
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 2.4000000000000004,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 3.2
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 3.2
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 3.2,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 4
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 4
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 4,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 4.800000000000001
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 4.800000000000001
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 4.800000000000001,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 5.6000000000000005
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 5.6000000000000005
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 5.6000000000000005,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 6.4
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 6.4
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 6.4,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 7.2
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 7.2
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 7.2,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 8
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 8
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 8,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 8.8
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 8.8
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 8.8,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 9.600000000000001
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 9.600000000000001
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 9.600000000000001,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 10.4
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 10.4
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 10.4,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 11.200000000000001
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 11.200000000000001
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 11.200000000000001,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 12
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 12
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 12,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 12.8
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 12.8
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 12.8,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 13.600000000000001
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 13.600000000000001
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 13.600000000000001,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 14.4
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 14.4
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 14.4,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoCaminata",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 15.200000000000001
+                  },
+                  {
+                    "$tipo": "traslacion",
+                    "Duracion": 0.8,
+                    "TiempoInicio": 15.200000000000001
+                  }
+                ],
+                "Conteo": 2
+              },
+              "TiempoInicio": 15.200000000000001,
+              "Duracion": 0.8
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "rotacion",
+                    "Duracion": 0.5,
+                    "TiempoInicio": 16
+                  }
+                ],
+                "Conteo": 1
+              },
+              "TiempoInicio": 16,
+              "Duracion": 0.5
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "movimientoParabolico",
+                    "Duracion": 1.5,
+                    "TiempoInicio": 16.5
+                  }
+                ],
+                "Conteo": 1
+              },
+              "TiempoInicio": 16.5,
+              "Duracion": 1.5
+            }
+          ],
+          "Conteo": 1
+        }
+      },
+      {
+        "Acciones": {
+          "Valores": [
+            {
+              "Transformaciones": {
+                "Valores": [
+                  {
+                    "$tipo": "rotacion",
+                    "Duracion": 0.5,
+                    "TiempoInicio": 18
+                  }
+                ],
+                "Conteo": 1
+              },
+              "TiempoInicio": 18,
+              "Duracion": 0.5
+            }
+          ],
+          "Conteo": 1
+        }
+      }
+    ],
+    "Conteo": 23
+  }
+}
